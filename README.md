@@ -9,7 +9,7 @@ Criar uma interface web que se adapte perfeitamente a diferentes dispositivos, c
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Figma** – para desenvolvimento do protótipo de interface
+- **Figma** – para desenvolvimento do protótipo de interface https://www.figma.com/proto/kdFqVgcHILhjV7jyqq75Dn/Projeto-de-Interface-009---Naneto?node-id=111-10&t=2E2FwkzeUtTtJRPq-1//               
 - **HTML5** – estrutura do conteúdo
 - **CSS3** – estilização customizada
 - **Bootstrap** – responsividade e componentes prontos
